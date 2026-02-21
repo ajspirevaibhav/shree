@@ -1,7 +1,13 @@
 @font-face {
   font-family: 'Shree1';
-  src: url('./fonts/Shree.woff2') format('woff2'),
-       url('./fonts/Shree.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+  src: url('./fonts/Shree1.woff2') format('woff2'),
+       url('./fonts/Shree1.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'Shree2';
+  src: url('./fonts/Shree2.woff2') format('woff2'),
+       url('./fonts/Shree2.woff') format('woff');
+}
+
+/* add more as needed */
