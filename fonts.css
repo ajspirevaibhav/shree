@@ -10,4 +10,11 @@
        url('./fonts/Shree2.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'NewFont';
+  src: url('./fonts/NewFont.woff2') format('woff2'),
+       url('./fonts/NewFont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 /* add more as needed */
