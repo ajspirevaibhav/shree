@@ -1,20 +1,11 @@
 @font-face {
-  font-family: 'Shree1';
-  src: url('./fonts/Shree1.woff2') format('woff2'),
-       url('./fonts/Shree1.woff') format('woff');
+  font-family: 'Shree1076';
+  src: url('https://ajspirevaibhav.github.io/shree/fonts/shree1076.woff2') format('woff2'),
+       url('https://ajspirevaibhav.github.io/shree/fonts/shree1076.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Shree2';
-  src: url('./fonts/Shree2.woff2') format('woff2'),
-       url('./fonts/Shree2.woff') format('woff');
+  font-family: 'Shree2317';
+  src: url('https://ajspirevaibhav.github.io/shree/fonts/shree2317.woff2') format('woff2'),
+       url('https://ajspirevaibhav.github.io/shree/fonts/shree2317.woff') format('woff');
 }
-
-@font-face {
-  font-family: 'NewFont';
-  src: url('./fonts/SHREE-DEV7-2317.woff2') format('woff2'),
-       url('./fonts/SHREE-DEV7-2317.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-/* add more as needed */
