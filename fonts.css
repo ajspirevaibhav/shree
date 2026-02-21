@@ -12,8 +12,8 @@
 
 @font-face {
   font-family: 'NewFont';
-  src: url('./fonts/NewFont.woff2') format('woff2'),
-       url('./fonts/NewFont.woff') format('woff');
+  src: url('./fonts/SHREE-DEV7-2317.woff2') format('woff2'),
+       url('./fonts/SHREE-DEV7-2317.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
